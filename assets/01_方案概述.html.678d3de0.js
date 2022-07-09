@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-228de9b5","path":"/design/technique/01_%E6%96%B9%E6%A1%88%E6%A6%82%E8%BF%B0.html","title":"\u65B9\u6848\u6982\u8FF0","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657355686000},"filePathRelative":"design/technique/01_\u65B9\u6848\u6982\u8FF0.md"}');export{e as data};
