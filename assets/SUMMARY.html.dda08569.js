@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-92838176","path":"/operation/18_kubernetes/SUMMARY.html","title":"Summary","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657346883000,"contributors":[{"name":"LuoAnDong","email":"luoandong@gmail.com","commits":1}]},"filePathRelative":"operation/18_kubernetes/SUMMARY.md"}');export{e as data};

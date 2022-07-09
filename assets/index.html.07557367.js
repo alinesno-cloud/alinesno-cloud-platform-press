@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ceb945a0","path":"/operation/27_minio/","title":"","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657346883000,"contributors":[{"name":"LuoAnDong","email":"luoandong@gmail.com","commits":1}]},"filePathRelative":"operation/27_minio/README.md"}');export{e as data};
