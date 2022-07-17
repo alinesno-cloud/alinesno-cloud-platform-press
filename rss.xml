@@ -6,8 +6,8 @@
     <link>http://alinesno-platform.linesno.com/</link>
     <description>能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 17 Jul 2022 16:56:45 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Jul 2022 16:56:45 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Jul 2022 17:32:02 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Jul 2022 17:32:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -5665,17 +5665,25 @@ computed: {
 ]]></content:encoded>
     </item>
     <item>
-      <title>商务沟通</title>
+      <title>联系我们</title>
       <link>http://alinesno-platform.linesno.com/prices/04_%E5%95%86%E5%8A%A1%E6%B2%9F%E9%80%9A.html</link>
       <guid>http://alinesno-platform.linesno.com/prices/04_%E5%95%86%E5%8A%A1%E6%B2%9F%E9%80%9A.html</guid>
-      <source url="http://alinesno-platform.linesno.com/rss.xml">商务沟通</source>
-      <content:encoded><![CDATA[<h1 id="商务沟通" tabindex="-1"> 商务沟通</h1>
+      <source url="http://alinesno-platform.linesno.com/rss.xml">联系我们</source>
+      <content:encoded><![CDATA[<h1 id="联系我们" tabindex="-1"> 联系我们</h1>
 <blockquote>
 <p>以下为添加进一步商务沟通</p>
 </blockquote>
-<p>以下为商务沟通企业微信，扫码添加：</p>
-<img src="/prices/contact_me_qr.png" width="400px">
-<p>感谢对ACP数字中台认可。</p>
+<h2 id="关于我们" tabindex="-1"> 关于我们</h2>
+<p>我们热衷于做好一款产品和体验，热衷于产品的研究和实际场景的整合。</p>
+<h2 id="联系信息" tabindex="-1"> 联系信息</h2>
+<p>以下为团队沟通企业微信二维码，扫码添加：</p>
+<i>Content not supported</i>
+<p>感谢对ACP数字中台认可，交个朋友也不错 😃</p>
+<h2 id="其它" tabindex="-1"> 其它</h2>
+<ul>
+<li>ACP是社区型产品，产品现状跟演示版本一致，支持后期免费升级</li>
+<li>服务包与产品是分开，针对于能力的团队可不采购服务包</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -5704,7 +5712,7 @@ computed: {
 <h2 id="版本报价" tabindex="-1"> 版本报价</h2>
 <p>以下为每个版本的具体交付内容，这里涉及到每个对应版本的交付内容和服务内容项目</p>
 <h3 id="版本范围" tabindex="-1"> 版本范围</h3>
-<p>以下为初稿，待调整（整体确认版本计划于 7 月底完成确认和定价确认），使用版本-在线 saas 体验和试用，数据治理体系，常常会结合解决方案一起，
+<p>使用版本与在线 saas 体验和试用一致，数据治理体系，常常会结合解决方案一起，
 这部分建议企业沟通，为更好的落地。</p>
 <blockquote>
 <p>免费版本与基础版本一样，免费版本无源码交付</p>
@@ -5954,9 +5962,9 @@ computed: {
 <tr>
 <td style="text-align:center">9-1</td>
 <td>采购</td>
-<td>产品<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
-<td>产品<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
-<td>产品<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
+<td>产品 <a href="/prices/04_%E5%95%86%E5%8A%A1%E6%B2%9F%E9%80%9A.html">采购</a></td>
+<td>产品 <a href="/prices/04_%E5%95%86%E5%8A%A1%E6%B2%9F%E9%80%9A.html">采购</a></td>
+<td>产品 <a href="/prices/04_%E5%95%86%E5%8A%A1%E6%B2%9F%E9%80%9A.html">采购</a></td>
 </tr>
 <tr>
 <td style="text-align:center"></td>
@@ -5972,8 +5980,8 @@ computed: {
 <li>服务包可以不配套采购，即可以单独采购产品而不采购服务包</li>
 <li>基础版本与免费版本的区别在于是否有源码安装的区别</li>
 <li>通用内容服务当前是按需求进行沟通</li>
-<li>专业版本和企业版本年限为半年</li>
-<li>旗舰版本数据套件版本和数据解决方案: 报价中不包含，针对业务场景数据解决方案，此跟商务沟通 </li>
+<li>专业版本和企业版本年限为三个月</li>
+<li>旗舰版本数据套件版本和数据解决方案: 报价中不包含，针对业务场景数据解决方案，此跟商务<a href="/prices/04_%E5%95%86%E5%8A%A1%E6%B2%9F%E9%80%9A.html">沟通</a></li>
 </ul>
 
 
