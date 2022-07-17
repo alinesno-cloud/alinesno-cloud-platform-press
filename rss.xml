@@ -6,8 +6,8 @@
     <link>http://alinesno-platform.linesno.com/</link>
     <description>能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 17 Jul 2022 16:34:31 GMT</pubDate>
-    <lastBuildDate>Sun, 17 Jul 2022 16:34:31 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Jul 2022 16:56:45 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Jul 2022 16:56:45 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -5665,6 +5665,20 @@ computed: {
 ]]></content:encoded>
     </item>
     <item>
+      <title>商务沟通</title>
+      <link>http://alinesno-platform.linesno.com/prices/04_%E5%95%86%E5%8A%A1%E6%B2%9F%E9%80%9A.html</link>
+      <guid>http://alinesno-platform.linesno.com/prices/04_%E5%95%86%E5%8A%A1%E6%B2%9F%E9%80%9A.html</guid>
+      <source url="http://alinesno-platform.linesno.com/rss.xml">商务沟通</source>
+      <content:encoded><![CDATA[<h1 id="商务沟通" tabindex="-1"> 商务沟通</h1>
+<blockquote>
+<p>以下为添加进一步商务沟通</p>
+</blockquote>
+<p>以下为商务沟通企业微信，扫码添加：</p>
+<img src="/prices/contact_me_qr.png" width="400px">
+<p>感谢对ACP数字中台认可。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>商业授权</title>
       <link>http://alinesno-platform.linesno.com/prices/</link>
       <guid>http://alinesno-platform.linesno.com/prices/</guid>
@@ -5939,17 +5953,10 @@ computed: {
 </tr>
 <tr>
 <td style="text-align:center">9-1</td>
-<td>报价</td>
-<td>产品:12500<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
-<td>产品:30000<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
-<td>产品:60000<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
-</tr>
-<tr>
-<td style="text-align:center"></td>
-<td></td>
-<td>服务:5000<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
-<td>服务:20000<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
-<td>服务:30000<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
+<td>采购</td>
+<td>产品<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
+<td>产品<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
+<td>产品<a href="http://cloud.linesno.com" target="_blank" rel="noopener noreferrer">采购</a></td>
 </tr>
 <tr>
 <td style="text-align:center"></td>
@@ -6034,14 +6041,6 @@ computed: {
       <guid>http://alinesno-platform.linesno.com/solution/04_%E4%B8%AD%E5%B0%8F%E5%9E%8B%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0%E6%96%B9%E6%A1%88.html</guid>
       <source url="http://alinesno-platform.linesno.com/rss.xml">中小型团队研发中台方案</source>
       <content:encoded><![CDATA[<h1 id="中小型团队研发中台方案" tabindex="-1"> 中小型团队研发中台方案</h1>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>行业软件中台战略方案</title>
-      <link>http://alinesno-platform.linesno.com/solution/05_%E8%A1%8C%E4%B8%9A%E8%BD%AF%E4%BB%B6%E4%B8%AD%E5%8F%B0%E6%88%98%E7%95%A5%E6%96%B9%E6%A1%88.html</link>
-      <guid>http://alinesno-platform.linesno.com/solution/05_%E8%A1%8C%E4%B8%9A%E8%BD%AF%E4%BB%B6%E4%B8%AD%E5%8F%B0%E6%88%98%E7%95%A5%E6%96%B9%E6%A1%88.html</guid>
-      <source url="http://alinesno-platform.linesno.com/rss.xml">行业软件中台战略方案</source>
-      <content:encoded><![CDATA[<h1 id="行业软件中台战略方案" tabindex="-1"> 行业软件中台战略方案</h1>
 ]]></content:encoded>
     </item>
   </channel>
