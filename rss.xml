@@ -6,8 +6,8 @@
     <link>http://alinesno-platform.linesno.com/</link>
     <description>能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 Jul 2022 12:35:54 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Jul 2022 12:35:54 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2022 12:55:55 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2022 12:55:55 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -5077,16 +5077,16 @@ computed: {
 <td style="text-align:center">2</td>
 <td style="text-align:center"></td>
 <td>云门户管理服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">完成</td>
 <td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/02_%E4%BA%91%E9%97%A8%E6%88%B7%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0.html">alinesno-cloud-platform</a></td>
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">2</td>
+<td style="text-align:center">8</td>
 <td style="text-align:center"></td>
-<td>会员管理服务</td>
+<td>网关管理服务</td>
 <td style="text-align:center"></td>
-<td></td>
+<td>alinesno-cloud-gateway</td>
 <td></td>
 </tr>
 <tr>
@@ -5106,14 +5106,6 @@ computed: {
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">5</td>
-<td style="text-align:center"></td>
-<td>文档打印管理服务</td>
-<td style="text-align:center">优化中</td>
-<td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/05_%E6%96%87%E6%A1%A3%E6%89%93%E5%8D%B0%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0.html">alinesno-cloud-base-print</a></td>
-<td></td>
-</tr>
-<tr>
 <td style="text-align:center">6</td>
 <td style="text-align:center"></td>
 <td>存储管理服务</td>
@@ -5130,22 +5122,6 @@ computed: {
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">8</td>
-<td style="text-align:center"></td>
-<td>网关管理服务</td>
-<td style="text-align:center"></td>
-<td>alinesno-cloud-gateway</td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:center">9</td>
-<td style="text-align:center"></td>
-<td>中台连接器服务</td>
-<td style="text-align:center"></td>
-<td>alinesno-cloud-open</td>
-<td></td>
-</tr>
-<tr>
 <td style="text-align:center">11</td>
 <td style="text-align:center"></td>
 <td>单点登陆管理服务</td>
@@ -5159,6 +5135,14 @@ computed: {
 <td>内容管理服务</td>
 <td style="text-align:center"></td>
 <td>alinesno-cloud-cms</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:center"></td>
+<td>会员管理服务</td>
+<td style="text-align:center"></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
