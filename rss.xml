@@ -6,8 +6,8 @@
     <link>http://alinesno-platform.linesno.com/</link>
     <description>能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 Jul 2022 12:55:55 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Jul 2022 12:55:55 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2022 13:09:46 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2022 13:09:46 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -5037,7 +5037,7 @@ computed: {
 <td style="text-align:center">2</td>
 <td style="text-align:center"></td>
 <td>应用监控预警服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td></td>
 <td></td>
 </tr>
@@ -5045,7 +5045,7 @@ computed: {
 <td style="text-align:center">3</td>
 <td style="text-align:center"></td>
 <td>审计日志监控服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td></td>
 <td></td>
 </tr>
@@ -5053,7 +5053,7 @@ computed: {
 <td style="text-align:center">4</td>
 <td style="text-align:center"></td>
 <td>Ansible 自动化操作服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td></td>
 <td></td>
 </tr>
@@ -5085,7 +5085,7 @@ computed: {
 <td style="text-align:center">8</td>
 <td style="text-align:center"></td>
 <td>网关管理服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-gateway</td>
 <td></td>
 </tr>
@@ -5101,7 +5101,7 @@ computed: {
 <td style="text-align:center">4</td>
 <td style="text-align:center"></td>
 <td>支付管理服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-base-pay</td>
 <td></td>
 </tr>
@@ -5117,7 +5117,7 @@ computed: {
 <td style="text-align:center">7</td>
 <td style="text-align:center"></td>
 <td>工作流管理服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-base-workflow</td>
 <td></td>
 </tr>
@@ -5125,7 +5125,7 @@ computed: {
 <td style="text-align:center">11</td>
 <td style="text-align:center"></td>
 <td>单点登陆管理服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-platform-cas</td>
 <td></td>
 </tr>
@@ -5133,7 +5133,7 @@ computed: {
 <td style="text-align:center">12</td>
 <td style="text-align:center"></td>
 <td>内容管理服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-cms</td>
 <td></td>
 </tr>
@@ -5141,7 +5141,7 @@ computed: {
 <td style="text-align:center">2</td>
 <td style="text-align:center"></td>
 <td>会员管理服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td></td>
 <td></td>
 </tr>
@@ -5157,7 +5157,7 @@ computed: {
 <td style="text-align:center">1</td>
 <td style="text-align:center">数据中台</td>
 <td>数据中台管理体系</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-data-studio</td>
 <td></td>
 </tr>
@@ -5173,7 +5173,7 @@ computed: {
 <td style="text-align:center">3</td>
 <td style="text-align:center"></td>
 <td>主数据管理服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-data-mdn</td>
 <td></td>
 </tr>
@@ -5181,7 +5181,7 @@ computed: {
 <td style="text-align:center">4</td>
 <td style="text-align:center"></td>
 <td>数据集成服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-data-etl</td>
 <td></td>
 </tr>
@@ -5189,7 +5189,7 @@ computed: {
 <td style="text-align:center">5</td>
 <td style="text-align:center"></td>
 <td>数据开发服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-data-develop</td>
 <td></td>
 </tr>
@@ -5197,7 +5197,7 @@ computed: {
 <td style="text-align:center">6</td>
 <td style="text-align:center"></td>
 <td>数据开放服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">编写中</td>
 <td>alinesno-cloud-data-open</td>
 <td></td>
 </tr>
@@ -5211,7 +5211,6 @@ computed: {
 </tr>
 </tbody>
 </table>
-
 <p><strong>相关产品使用和运营架构规划</strong>:</p>
 <ul>
 <li>研发中台运营 <a href="/framework/">打开</a></li>
