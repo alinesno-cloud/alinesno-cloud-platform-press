@@ -6,8 +6,8 @@
     <link>http://alinesno-platform.linesno.com/</link>
     <description>能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 19 Jul 2022 07:38:55 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Jul 2022 07:38:55 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2022 12:35:54 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2022 12:35:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -5093,7 +5093,7 @@ computed: {
 <td style="text-align:center">3</td>
 <td style="text-align:center"></td>
 <td>通知管理服务</td>
-<td style="text-align:center">优化中</td>
+<td style="text-align:center">完成</td>
 <td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/03_%E9%80%9A%E7%9F%A5%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0.html">alinesno-cloud-base-notice</a></td>
 <td></td>
 </tr>
