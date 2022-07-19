@@ -6,8 +6,8 @@
     <link>http://alinesno-platform.linesno.com/</link>
     <description>能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 18 Jul 2022 14:57:10 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Jul 2022 14:57:10 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2022 00:01:54 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2022 00:01:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -4997,15 +4997,15 @@ computed: {
 <td style="text-align:center">1</td>
 <td style="text-align:center">技术中台</td>
 <td>技术研发体系</td>
-<td style="text-align:center">优化中</td>
-<td><a href="/platform/paas/01_%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%B9%B3%E5%8F%B0.html">打开</a></td>
+<td style="text-align:center">初稿</td>
+<td><a href="/platform/paas/01_%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%B9%B3%E5%8F%B0.html">devops</a></td>
 <td></td>
 </tr>
 <tr>
 <td style="text-align:center">2</td>
 <td style="text-align:center"></td>
 <td>微服务研发引擎</td>
-<td style="text-align:center">优化中</td>
+<td style="text-align:center">完成</td>
 <td><a href="/platform/business/12_%E6%8A%80%E6%9C%AF%E4%B8%AD%E5%8F%B0/01_%E5%BE%AE%E6%9C%8D%E5%8A%A1%E7%A0%94%E5%8F%91%E5%BC%95%E6%93%8E.html">alinesno-cloud-core</a></td>
 <td></td>
 </tr>
@@ -5013,7 +5013,7 @@ computed: {
 <td style="text-align:center">3</td>
 <td style="text-align:center"></td>
 <td>代码生成器服务</td>
-<td style="text-align:center"></td>
+<td style="text-align:center">完成</td>
 <td><a href="/platform/business/19_%E4%B8%9A%E5%8A%A1%E4%B8%AD%E5%8F%B0/01_%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E8%84%9A%E6%89%8B%E6%9E%B6.html">alinesno-cloud-initializr-admin</a></td>
 <td></td>
 </tr>
@@ -5029,8 +5029,8 @@ computed: {
 <td style="text-align:center">1</td>
 <td style="text-align:center">运维中台</td>
 <td>自动化运维体系</td>
-<td style="text-align:center"></td>
-<td>文档</td>
+<td style="text-align:center">初稿</td>
+<td><a href="/platform/paas/">chatops</a></td>
 <td></td>
 </tr>
 <tr>
@@ -5069,7 +5069,7 @@ computed: {
 <td style="text-align:center">1</td>
 <td style="text-align:center">研发中台</td>
 <td>权限资源引擎服务</td>
-<td style="text-align:center">优化中</td>
+<td style="text-align:center">完成</td>
 <td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/01_%E5%9F%BA%E7%A1%80%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0.html">alinesno-cloud-authority</a></td>
 <td></td>
 </tr>
