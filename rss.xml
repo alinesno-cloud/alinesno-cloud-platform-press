@@ -6,8 +6,8 @@
     <link>http://alinesno-platform.linesno.com/</link>
     <description>能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 Jul 2022 08:45:36 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Jul 2022 08:45:36 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Jul 2022 16:03:24 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Jul 2022 16:03:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -5125,16 +5125,16 @@ computed: {
 <td style="text-align:center">11</td>
 <td style="text-align:center"></td>
 <td>单点登陆管理服务</td>
-<td style="text-align:center">编写中</td>
-<td>alinesno-cloud-platform-cas</td>
+<td style="text-align:center">完成</td>
+<td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/11_%E5%8D%95%E7%82%B9%E7%99%BB%E9%99%86%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0.html">alinesno-cloud-platform-sso</a></td>
 <td></td>
 </tr>
 <tr>
 <td style="text-align:center">12</td>
 <td style="text-align:center"></td>
 <td>内容管理服务</td>
-<td style="text-align:center">编写中</td>
-<td>alinesno-cloud-cms</td>
+<td style="text-align:center">初稿</td>
+<td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/14_CMS%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0.html">alinesno-cloud-cms</a></td>
 <td></td>
 </tr>
 <tr>
