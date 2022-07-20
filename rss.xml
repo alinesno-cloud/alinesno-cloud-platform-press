@@ -6,8 +6,8 @@
     <link>http://alinesno-platform.linesno.com/</link>
     <description>能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 Jul 2022 07:50:38 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Jul 2022 07:50:38 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Jul 2022 07:53:55 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Jul 2022 07:53:55 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -4822,7 +4822,7 @@ computed: {
 <p>当前研发中台版本已完全规划期内容，涵盖从设计、技术、产品、解决方案、文档、开发者成长、门户等整个基础中台业务体系，
 为确保稳定性，当前计划为版本升级按季度升级版本，半年度升级大版本，以避免影响业务线的开发，技术升级以采纳稳定
 技术为主。</p>
-<h3 id="_2-2-0-版本" tabindex="-1"> 2.2.0 版本</h3>
+<h3 id="_2-2-0-版本" tabindex="-1"> 2.2.0  版本</h3>
 <blockquote>
 <p>主要升级计划周期为5个月，升级目标为一键数字中台化，过程当中维护 2.1.2-RC 版本为主（后期推出 Release 版本输出）,整体升级计划是22年第三、四季度</p>
 </blockquote>
