@@ -6,8 +6,8 @@
     <link>http://alinesno-platform.linesno.com/</link>
     <description>能够灵活满足企业数字化建设中各种场景的需要，更高效、专注的沉淀业务和数据能力，进而形成企业的业务和数据中台。通过能力的灵活组合，快速的应对当前快节奏的市场需求，助力企业数字化转型的成功。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 20 Jul 2022 16:24:34 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Jul 2022 16:24:34 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Jul 2022 23:57:21 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Jul 2022 23:57:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -5027,46 +5027,6 @@ computed: {
 </tr>
 <tr>
 <td style="text-align:center">1</td>
-<td style="text-align:center">运维中台</td>
-<td>自动化运维体系</td>
-<td style="text-align:center">完成</td>
-<td><a href="/platform/business/18_%E8%BF%90%E7%BB%B4%E4%B8%AD%E5%8F%B0/12_%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4%E4%BD%93%E7%B3%BB.html">chatops</a></td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:center">2</td>
-<td style="text-align:center"></td>
-<td>应用监控预警服务</td>
-<td style="text-align:center">编写中</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:center">3</td>
-<td style="text-align:center"></td>
-<td>审计日志监控服务</td>
-<td style="text-align:center">编写中</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:center">4</td>
-<td style="text-align:center"></td>
-<td>Ansible 自动化操作服务</td>
-<td style="text-align:center">编写中</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:center"></td>
-<td style="text-align:center"></td>
-<td></td>
-<td style="text-align:center"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:center">1</td>
 <td style="text-align:center">研发中台</td>
 <td>权限资源引擎服务</td>
 <td style="text-align:center">完成</td>
@@ -5082,15 +5042,23 @@ computed: {
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">8</td>
+<td style="text-align:center">3</td>
 <td style="text-align:center"></td>
 <td>网关管理服务</td>
-<td style="text-align:center">编写中</td>
-<td>alinesno-cloud-gateway</td>
+<td style="text-align:center">完成</td>
+<td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/16_%E7%BD%91%E5%85%B3%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1.html">alinesno-cloud-gateway</a></td>
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">3</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center"></td>
+<td>分布式消息管理服务</td>
+<td style="text-align:center">完成</td>
+<td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/15_%E5%88%86%E5%B8%83%E5%BC%8F%E6%B6%88%E6%81%AF%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1.html">alinesno-cloud-message</a></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
 <td style="text-align:center"></td>
 <td>通知管理服务</td>
 <td style="text-align:center">完成</td>
@@ -5098,15 +5066,7 @@ computed: {
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">4</td>
-<td style="text-align:center"></td>
-<td>支付管理服务</td>
-<td style="text-align:center">编写中</td>
-<td>alinesno-cloud-base-pay</td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:center">6</td>
+<td style="text-align:center">7</td>
 <td style="text-align:center"></td>
 <td>存储管理服务</td>
 <td style="text-align:center">完成</td>
@@ -5114,15 +5074,15 @@ computed: {
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">7</td>
+<td style="text-align:center">8</td>
 <td style="text-align:center"></td>
 <td>工作流管理服务</td>
 <td style="text-align:center">编写中</td>
-<td>alinesno-cloud-base-workflow</td>
+<td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/18_%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1.html">alinesno-cloud-base-workflow</a></td>
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">11</td>
+<td style="text-align:center">9</td>
 <td style="text-align:center"></td>
 <td>单点登陆管理服务</td>
 <td style="text-align:center">完成</td>
@@ -5130,7 +5090,7 @@ computed: {
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">12</td>
+<td style="text-align:center">10</td>
 <td style="text-align:center"></td>
 <td>内容管理服务</td>
 <td style="text-align:center">初稿</td>
@@ -5138,9 +5098,49 @@ computed: {
 <td></td>
 </tr>
 <tr>
-<td style="text-align:center">2</td>
+<td style="text-align:center">11</td>
 <td style="text-align:center"></td>
 <td>会员管理服务</td>
+<td style="text-align:center">初稿</td>
+<td><a href="/platform/business/13_%E7%A0%94%E5%8F%91%E4%B8%AD%E5%8F%B0/17_%E4%BC%9A%E5%91%98%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1.html">alinesno-cloud-member</a></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td></td>
+<td style="text-align:center"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:center">运维中台</td>
+<td>自动化运维体系</td>
+<td style="text-align:center">完成</td>
+<td><a href="/platform/business/18_%E8%BF%90%E7%BB%B4%E4%B8%AD%E5%8F%B0/12_%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4%E4%BD%93%E7%B3%BB.html">chatops</a></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:center"></td>
+<td>审计日志监控服务</td>
+<td style="text-align:center">编写中</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:center"></td>
+<td>Ansible 自动化操作服务</td>
+<td style="text-align:center">编写中</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:center"></td>
+<td>应用监控预警服务</td>
 <td style="text-align:center">编写中</td>
 <td></td>
 <td></td>
@@ -5211,6 +5211,7 @@ computed: {
 </tr>
 </tbody>
 </table>
+
 <p><strong>相关产品使用和运营架构规划</strong>:</p>
 <ul>
 <li>研发中台运营 <a href="/framework/">打开</a></li>
